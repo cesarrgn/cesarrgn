@@ -1,6 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
+# 👋 Hi, I'm Cesar Nunes
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+César+Nunes;I'm+37+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+I'm a Data Scientist with a passion for transforming data into actionable insights. With a strong foundation in Python and SQL, I specialize in data analysis, machine learning, and data visualization.
 
-### Main skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+## 🔍 About Me
+- 🌱 Currently deepening my skills in advanced machine learning techniques and cloud computing.
+- 📊 Experienced in creating data-driven solutions that help businesses make informed decisions.
+- 🎓 36 years old, with a career dedicated to understanding and leveraging data.
+
+## 🛠️ Skills
+- **Programming Languages:** Python, SQL
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools:** Jupyter Notebook, Git, Docker
+
+## 📫 Let's Connect!
+- LinkedIn: [Cesar Nunes](https://www.linkedin.com/in/cesar-nunes-2725392b1/)
+- Portfolio: [My Data Science Projects](https://your-portfolio-link.com)
+- Email: [your-email@example.com](cesarrgn@hotmail.com)
+
+---
+
+*Always eager to explore new data challenges and opportunities. Let's innovate together!*
