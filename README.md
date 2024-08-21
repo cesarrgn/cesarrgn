@@ -5,7 +5,7 @@ I'm a Data Scientist with a passion for transforming data into actionable insigh
 ## 🔍 About Me
 - 🌱 Currently deepening my skills in advanced machine learning techniques and cloud computing.
 - 📊 Experienced in creating data-driven solutions that help businesses make informed decisions.
-- 🎓 36 years old, with a career dedicated to understanding and leveraging data.
+- 🎓 37 years old, with a career dedicated to understanding and leveraging data.
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, SQL
