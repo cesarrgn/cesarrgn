@@ -17,7 +17,7 @@ I'm a Data Scientist with a passion for transforming data into actionable insigh
 ## 📫 Let's Connect!
 - LinkedIn: [Cesar Nunes](https://www.linkedin.com/in/cesar-nunes-2725392b1/)
 - Portfolio: [My Data Science Projects](https://your-portfolio-link.com)
-- Email: [your-email@example.com](cesarrgn@hotmail.com)
+- Email: [cesarrgn@hotmail.com]
 
 ---
 
